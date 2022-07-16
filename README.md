@@ -32,3 +32,10 @@ install.packages("readxl")
 * Technology and office supplies contribute to 51% and 43% of profit respectively.
 * Company’s breakeven discount rate is roughly 24%.
 
+## Recommendations
+* Maintain discount rate to sell off items
+* Refrain from offering similar products
+* Discontinue selling and take the loss
+* Increase advertising to increase overall sales
+ * Divert effort to products categorized as furniture and those select few printers that are performing poorly
+
