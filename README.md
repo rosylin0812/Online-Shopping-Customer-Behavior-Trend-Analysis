@@ -9,5 +9,10 @@ More companies are working to improve their online presence
 ## Business Problem
 As apart of the marketing department for an online superstore, we have been tasked to identifying poorly performing products to focus marketing efforts towards.
 
-## Objective![image](https://user-images.githubusercontent.com/99856012/179368510-8f2ca190-98f6-4737-88a1-33025a9a741d.png)
+## Objective
+Based on the business’ historical data, we will provide e-commerce analytics that our company can use to make more intelligent decisions to boost profits and minimize losses by identifying:
+* Top selling products/categories
+* Most/least profitable products 
+* Profit/loss by discount level
+
 
