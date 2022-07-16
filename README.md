@@ -21,7 +21,13 @@ Install Packages
 install.packages("tidyverse")
 install.packages("readxl")
 ```
-Use read_excel: Read xks abd xlsx files
+Use read_excel to Read xks abd xlsx files
 1. Download [US Onine Superstore Data.xls](https://github.com/rosylin0812/Online-Shopping-Customer-Behavior-Trend-Analysis/blob/main/US%20Onine%20Superstore%20Data.xls)
-2. Copy Path to the xls/xlsx file. For example, ""
-
+2. Insert the excel file path to read_excel()
+```
+read_excel("your file path", col_names = TRUE)
+```
+Example code: 
+```
+df <- read_excel("C:\Downloads\...\US Superstore data.xls", col_names = TRUE)
+```
