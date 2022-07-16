@@ -16,6 +16,12 @@ Based on the business’ historical data, we will provide e-commerce analytics t
 * Profit/loss by discount level
 
 ## Setup Environment
-Download [US Onine Superstore Data.xls](https://github.com/rosylin0812/Online-Shopping-Customer-Behavior-Trend-Analysis/blob/main/US%20Onine%20Superstore%20Data.xls)
-
+Install Packages
+```
+install.packages("tidyverse")
+install.packages("readxl")
+```
+Use read_excel: Read xks abd xlsx files
+1. Download [US Onine Superstore Data.xls](https://github.com/rosylin0812/Online-Shopping-Customer-Behavior-Trend-Analysis/blob/main/US%20Onine%20Superstore%20Data.xls)
+2. Copy Path to the xls/xlsx file. For example, ""
 
