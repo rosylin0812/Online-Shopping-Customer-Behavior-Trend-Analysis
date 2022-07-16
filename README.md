@@ -21,3 +21,5 @@ install.packages("readxl")
 
 ## Tableau Visualization
 
+[Top selling products/categories](https://public.tableau.com/app/profile/fangju4276/viz/OnlineShoppingCustomerBehaviorTrendAnalysis-1/Dashboard3)
+[Most/least profitable products & Profit/loss by discount level](https://public.tableau.com/app/profile/fangju4276/viz/OnlineShoppingCustomerBehaviorTrendAnalysis-2/Dashboard2)
