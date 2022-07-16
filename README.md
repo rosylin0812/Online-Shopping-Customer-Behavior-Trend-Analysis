@@ -36,5 +36,6 @@ install.packages("readxl")
 * Maintain discount rate to sell off items
 * Refrain from offering similar products
 * Discontinue selling and take the loss
-* Increase advertising to increase overall sales -> Divert effort to products categorized as furniture and those select few printers that are performing poorly
+* Increase advertising to increase overall sales 
+    -> Divert effort to products categorized as furniture and those select few printers that are performing poorly
 
