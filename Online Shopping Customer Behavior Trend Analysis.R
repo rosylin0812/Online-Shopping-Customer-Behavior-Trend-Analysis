@@ -5,7 +5,7 @@ library("readxl")
 
 # Utilizing readxl to bring our data set into rstudio
 # dataset: https://www.kaggle.com/datasets/juhi1994/superstore
-df <- read_excel("US Superstore data.xls", col_names = TRUE)
+df <- read_excel(file.path(getwd(), "US Onine Superstore Data.xls"), col_names = TRUE)
 head(df, n=5)
 
 # Removing column "Row ID", "Country", "Postal Code"
