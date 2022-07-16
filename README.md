@@ -26,9 +26,9 @@ install.packages("readxl")
 [Most/least profitable products & Profit/loss by discount level](https://public.tableau.com/app/profile/fangju4276/viz/OnlineShoppingCustomerBehaviorTrendAnalysis-2/Dashboard2)
 
 ## Summary
-*Bottom five products that are ranked based on profits are selling at a loss.
-  *Worst-performing products: Printers & Tables
-*Furniture is roughly the same quantity as technology, but only generating  6% of the profit.
-*Technology and office supplies contribute to 51% and 43% of profit respectively.
-*Company’s breakeven discount rate is roughly 24%.
+* Bottom five products that are ranked based on profits are selling at a loss.
+  * Worst-performing products: Printers & Tables
+* Furniture is roughly the same quantity as technology, but only generating  6% of the profit.
+* Technology and office supplies contribute to 51% and 43% of profit respectively.
+* Company’s breakeven discount rate is roughly 24%.
 
