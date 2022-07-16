@@ -20,4 +20,4 @@ install.packages("readxl")
 ```
 
 ## Tableau Visualization
-![image](https://user-images.githubusercontent.com/99856012/179369909-d65256d5-9454-4527-8c5d-672dfb239f1d.png=250x250)
+![image](https://user-images.githubusercontent.com/99856012/179369909-d65256d5-9454-4527-8c5d-672dfb239f1d.png=250)
