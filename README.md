@@ -17,7 +17,7 @@ Based on the business’ historical data, we will provide e-commerce analytics t
 
 ## Setup Environment
 
-Download [US Onine Superstore Data.xls](https://github.com/rosylin0812/Online-Shopping-Customer-
+Download [US Onine Superstore Data.xls](https://github.com/rosylin0812/Online-Shopping-Customer-Behavior-Trend-Analysis/blob/main/US%20Onine%20Superstore%20Data.xls)
 
 Install Packages
 ```
