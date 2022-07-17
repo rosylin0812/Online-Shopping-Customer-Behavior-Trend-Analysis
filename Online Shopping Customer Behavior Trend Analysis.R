@@ -1,10 +1,6 @@
 library(tidyverse)
 
 df <- read.csv("https://raw.githubusercontent.com/rosylin0812/Online-Shopping-Customer-Behavior-Trend-Analysis/main/US%20Onine%20Superstore%20Data.csv")
-
-# Utilizing readxl to bring our data set into rstudio
-df <- read_excel(file.path(getwd(), "US Onine Superstore Data.xls"), col_names = TRUE)
-
 head(df, n=5)
 
 # Removing column "Row ID", "Country", "Postal Code"
