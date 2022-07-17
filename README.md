@@ -35,8 +35,7 @@ Based on the business’ historical data, we will provide e-commerce analytics t
 * Refrain from offering similar products
 * Discontinue selling and take the loss
 * Increase advertising to increase overall sales 
-    
-    -> Divert effort to products categorized as furniture and those select few printers that are performing poorly
+  * Divert effort to products categorized as furniture and those select few printers that are performing poorly
 
 ## About Data
 
