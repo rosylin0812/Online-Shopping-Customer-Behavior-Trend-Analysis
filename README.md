@@ -1,5 +1,4 @@
 # Online Shopping Customer Behavior & Trend Analysis
-
 ## Setup & Installation
 Make sure you have the latest version of [R](https://www.r-project.org/) installed.
 
@@ -10,8 +9,6 @@ Install Packages
 install.packages("tidyverse")
 install.packages("readxl")
 ```
-Download Data [US Onine Superstore Data.xls](https://github.com/rosylin0812/Online-Shopping-Customer-Behavior-Trend-Analysis/blob/main/US%20Onine%20Superstore%20Data.xls)
-
 ## Business Problem
 As apart of the marketing department for an online superstore, we have been tasked to identifying poorly performing products to focus marketing efforts towards.
 
