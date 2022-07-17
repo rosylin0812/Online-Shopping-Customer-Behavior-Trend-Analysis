@@ -18,7 +18,7 @@ Based on the business’ historical data, we will provide e-commerce analytics t
 * Most/least profitable products 
 * Profit/loss by discount level
 
-## Tableau Visualization <img src="https://workforceedtech.org/wp-content/uploads/2019/03/Tableau_Logo_resized.png" width = '50'>
+## Tableau Visualization <img src="https://commons.wikimedia.org/wiki/File:Tableau_Logo.png" width = '50'>
 
 [Top selling products/categories](https://public.tableau.com/app/profile/fangju4276/viz/OnlineShoppingCustomerBehaviorTrendAnalysis-1/Dashboard3)
 
