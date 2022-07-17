@@ -4,11 +4,9 @@
 Make sure you have the latest version of [R](https://www.r-project.org/) installed.
 
 Recommend IED
-```bash
 [RStudio](https://www.rstudio.com/products/rstudio/download/)
 
 Download Data
-```bash
 [US Onine Superstore Data.xls](https://github.com/rosylin0812/Online-Shopping-Customer-Behavior-Trend-Analysis/blob/main/US%20Onine%20Superstore%20Data.xls)
 
 Install Packages
