@@ -7,7 +7,6 @@ Recommend IED: [RStudio](https://www.rstudio.com/products/rstudio/download/)
 Install Packages
 ```bash
 install.packages("tidyverse")
-install.packages("readxl")
 ```
 ## Business Problem
 As apart of the marketing department for an online superstore, we have been tasked to identifying poorly performing products to focus marketing efforts towards.
